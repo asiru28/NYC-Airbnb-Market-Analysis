@@ -25,7 +25,6 @@ The dataset consists of three files:
 
 1. Python Libraries: Pandas, NumPy, Datetime
 2. Data Formats: CSV, TSV, Excel
-3. Visualization: (Optional – add if you create visualizations)
 
 # Insights
 
